@@ -1,0 +1,238 @@
+.card{
+  position: absolute; 
+            left: 30px; 
+            top: 50px; 
+            width: 25%; 
+            height: 65px;
+}
+
+.myheader{
+  color: red;
+  
+}
+.myone{
+  position: absolute; 
+  left: 220px; 
+  
+  
+  
+}
+
+/* Bootstrap 3 text input with search icon */
+
+
+/* Styles for wrapping the search box */
+
+.main {
+  width: 30%;
+  margin-left: 20px;
+  margin-top: 15px;
+  border: 0px none;
+}
+
+/* Bootstrap 3 text input with search icon */
+
+.has-search .form-control-feedback {
+  right: initial;
+  left: 0;
+  color: #ccc;
+  border: 0px none;
+}
+
+.has-search .form-control {
+  padding-right: 12px;
+  padding-left: 34px;
+  border: 0px none;
+}
+
+.img-circle{
+  position: absolute; 
+            left: 1030px; 
+            top: 15px; 
+            
+}
+.name{
+  position: absolute; 
+            left: 1074px; 
+            top: 21px;
+            color: green;
+            font-size: medium;
+}
+.chat-card{
+  position: absolute; 
+  left: 960px; 
+  top:65px;
+  
+ 
+ 
+  
+
+  }
+  .my-chat-header{
+    margin-top:2px;
+    margin-left: 16px;
+    color:#68696F ;
+    font-size: small;
+  }
+  .menu-card{
+    position: absolute; 
+  left: -220px; 
+  top:65px;
+ 
+  }
+  .extra-card{
+    position: absolute; 
+    left: -220px; 
+    top:635px;
+  }
+  .extra-card{
+    position: absolute; 
+    left: -220px; 
+    top:635px;
+  }
+  .preli-voter-card{
+    position: absolute; 
+    left: 12px; 
+    top:65px;
+  }
+  .font-weight-bold{
+    position: absolute; 
+    margin-top: 15px;
+    margin-left: 25px;
+  }
+  .font-weight-normal{
+    position: absolute; 
+    margin-top: 40px;
+    margin-left: 25px;
+  }
+  .demo-text-card{
+    position: absolute; 
+    left: 12px; 
+    top:164px;
+  }
+  .more-news-card{
+    position: absolute; 
+    left: 12px; 
+    top:354px;
+  }
+  .news-button{
+    position: absolute; 
+    left: 382px; 
+    top:16px;
+    color: green;
+  }
+  .event-card{
+    position: absolute; 
+    left: 12px; 
+    top:454px;
+  }
+  .view-all{
+    position: absolute; 
+    left: 802px; 
+    top:12.5px;
+    color: green;
+    font-size: 16px;
+    font-style: bold;
+  }
+  .image-card{
+    position: absolute; 
+    left: 12px; 
+    top:513px;
+  }
+  .img-responsive{
+    display: block;
+  width: 30%;
+  height: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+  }
+  .img-responsive1{
+    display: block;
+  width: 30%;
+  height: 10%;
+  margin-left: 10px;
+  
+  }
+  .img-responsive2{
+    display: block;
+  width: 10%;
+  height: auto;
+  margin-left: 10px;
+ 
+  }
+  .chat-reader{
+    margin-top:20px;
+    margin-left: 16px;
+    color:#68696F ;
+    font-size: small;
+  }
+  .my-chat-header{
+    margin-top:20px;
+    margin-left: 16px;
+    color:#68696F ;
+    font-size: medium;
+  }
+  .last-card{
+    position: relative; 
+    left: 948px; 
+    top:177px;
+  }
+  .chat-footer{
+    font-size: small;
+    margin-left: 5px;
+    color:#4F4F53;
+  }
+  
+  .nav-link{
+    color:#4F4F53;
+  }
+  .nav-handle{
+    margin-top: -1px;
+  }
+  
+  .cloudly{
+    margin-top: 5px;
+    font-size: 17px;
+    color:red;
+  }
+  
+  .dot {
+    
+    position: relative;
+    height: 8px;
+    width: 8px;
+    background-color:green;
+    border-radius: 50%;
+    vertical-align:inherit;
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    
+   
+    
+  }
+  .chat_time{
+    position: relative;
+    cursor:pointer;
+   
+    vertical-align:inherit;
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    border: none;
+    overflow: hidden;
+    outline:none;
+    
+  }
+  
+  
+  .rounded-circle{
+    padding-right: 5px;
+  }
+  .chat-list{
+   
+    display: inline-block;
+  }
+ 
+  
+  
